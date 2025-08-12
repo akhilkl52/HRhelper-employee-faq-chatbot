@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is your name?",
+    "answer": "I am your HR Helper chatbot, here to assist with company FAQs."
+  },
+  {
+    "question": "What are the working hours?",
+    "answer": "Our working hours are 9 AM to 6 PM, Monday to Friday."
+  },
+  {
+    "question": "How can I apply for leave?",
+    "answer": "You can apply for leave through the HR portal or by emailing your manager."
+  },
+  {
+    "question": "What is the company address?",
+    "answer": "We are located at 123 Business Park, Tech City."
+  }
+]
